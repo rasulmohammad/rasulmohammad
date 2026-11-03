@@ -1,8 +1,7 @@
 ## Hi there 👋
 - I'm Rasul, a CS Student studying @ The City College of New York.
 - I love building random, but useful projects that encourage me to learn new technologies everyday!
-- My main tech stack is React, TypeScript, and Node.js
-- I'm a former SWE Intern @ AWS, and looking to intern there again this upcoming summer ('26)
+- I'm a former 2x SWE Intern @ AWS, and I'm looking to intern there again this upcoming summer ('27)
 
 <!--
 **rasulmohammad/rasulmohammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
