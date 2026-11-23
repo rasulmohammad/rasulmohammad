@@ -1,7 +1,7 @@
 ## Hi there 👋
 - I'm Rasul, a CS Student in my 3rd year
 - I love building random, but useful projects that encourage me to learn new technologies everyday!
-- I'm a former 2x SWE Intern @ AWS, and I'm looking to intern there again this upcoming summer ('27)
+- I'm a former 2x SWE Intern @ AWS
 
 <!--
 **rasulmohammad/rasulmohammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
